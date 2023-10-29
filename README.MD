@@ -1,4 +1,4 @@
 
 # Personal profile page.
 
-[**Open Pageo**](https://francescodbc24.github.io/me/)
+[**Open Page**](https://francescodbc24.github.io/me/)
